@@ -7,7 +7,12 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
-> Status do Projeto: Em desenvolvimento :warning:
+### Entregas do Projeto
+> Deadline 1 (D1): Formação de Grupos :heavy_check_mark:
+
+> Deadline 2 (D2): Descrição :warning:
+
+---
 
 > Link do Google Drive: [Clique aqui](https://drive.google.com/drive/folders/1TQ4R1zAJbMYrvhK5LGLx2bm1XxnigTG1?usp=sharing)
 
