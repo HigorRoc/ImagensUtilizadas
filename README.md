@@ -11,6 +11,10 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Deadline 1 (D1): Formação de Grupos :heavy_check_mark:
 
 > Deadline 2 (D2): Descrição :warning:
+ 
+> Deadline 3 (D3): Descrição :warning:
+
+> Deadline 4 (D4): Descrição :warning:
 
 ---
 
