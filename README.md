@@ -10,7 +10,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### Entregas do Projeto
 > Deadline 1 (D1): Formação de Grupos :heavy_check_mark:
 
-> Deadline 2 (D2): Descrição :warning:
+> Deadline 2 (D2): Termo de Abertura do Projeto (TAP) :warning:
  
 > Deadline 3 (D3): Descrição :warning:
 
@@ -24,6 +24,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 > Link das ATAs Prof.: [Clique aqui](https://drive.google.com/drive/folders/1GkMp8BqrnxAw8n-IObrcnVXOnL844meu)
 
 > Link do Docs Higor: [Clique aqui](https://docs.google.com/document/d/1ErNxuZLS5ess4oK_snBBgIluSwpeFhImzGmT7Dl7gDY/edit?usp=sharing)
+
 ---
 
 Quaisquer dúvidas, entrar em contato através do e-mail institucional: 
