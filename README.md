@@ -28,7 +28,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
-**Integrantes:** 
+### Integrantes: 
 |RA|Nome|
 | -------- | -------- | 
 |919107294|Higor Rocha Fernandes da Silva|
