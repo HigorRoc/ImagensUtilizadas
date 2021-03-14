@@ -25,6 +25,23 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 > Link do Docs Higor: [Clique aqui](https://docs.google.com/document/d/1ErNxuZLS5ess4oK_snBBgIluSwpeFhImzGmT7Dl7gDY/edit?usp=sharing)
 
+
+---
+
+**Integrantes:** 
+|RA|Nome|
+| -------- | -------- | 
+|919107294|Higor Rocha Fernandes da Silva|
+|3019111881|Alan Almeida Dias|
+|3019112851|Erick Marques Silva|
+|419110121|Guilherme Bonello de Andrade|
+|3019101919|Gustavo Henrique Silva Santos|
+|3019109265|Lyncon Vinicios Duarte Freire|
+|3018200899|Matheus Felipe França|
+|3019100726|Nathalia Araújo dos Santos|
+|419103719|Pedro Henrique de Oliveira Dias|
+|3019109565|Victor Nunes Pedreira|
+
 ---
 
 Quaisquer dúvidas, entrar em contato através do e-mail institucional: 
