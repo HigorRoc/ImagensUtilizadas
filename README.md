@@ -10,7 +10,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 ### Entregas do Projeto
 > Deadline 1 (D1): Formação de Grupos :heavy_check_mark:
 
-> Deadline 2 (D2): Termo de Abertura do Projeto (TAP) :warning:
+> Deadline 2 (D2): Termo de Abertura do Projeto (TAP) :heavy_check_mark:
  
 > Deadline 3 (D3): Descrição :warning:
 
