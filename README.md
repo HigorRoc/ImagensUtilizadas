@@ -7,7 +7,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
-### Entregas do Projeto
+### :pushpin: Entregas do Projeto
 > Deadline 1 (D1): Formação de Grupos :heavy_check_mark:
 
 > Deadline 2 (D2): Termo de Abertura do Projeto (TAP) :heavy_check_mark:
@@ -18,7 +18,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
-### Acessos para Equipe
+### :pushpin: Acessos para Equipe
 > Link do Google Drive (Higor): [Clique aqui](https://drive.google.com/drive/folders/1TQ4R1zAJbMYrvhK5LGLx2bm1XxnigTG1?usp=sharing)
 
 > Link do Google Drive (Prof.): [Clique aqui](https://drive.google.com/drive/folders/1GkMp8BqrnxAw8n-IObrcnVXOnL844meu)
@@ -28,7 +28,7 @@ Este repositório será utilizado para compor todos códigos + links da discplin
 
 ---
 
-### Integrantes: 
+### :pushpin: Integrantes: 
 |RA|Nome|
 | -------- | -------- | 
 |919107294|Higor Rocha Fernandes da Silva|
